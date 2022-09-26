@@ -1,0 +1,10 @@
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\bin\Debug\Hafta4İkincidonem.exe.config
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\bin\Debug\Hafta4İkincidonem.exe
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\bin\Debug\Hafta4İkincidonem.pdb
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.csprojAssemblyReference.cache
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.Form1.resources
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.Properties.Resources.resources
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.csproj.GenerateResource.cache
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.csproj.CoreCompileInputs.cache
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.exe
+C:\Users\p c\source\repos\Hafta4İkincidonem\Hafta4İkincidonem\obj\Debug\Hafta4İkincidonem.pdb
